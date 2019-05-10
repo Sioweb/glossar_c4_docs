@@ -1,0 +1,8 @@
+baseURL = "https://sioweb.github.io/glossar_c4"
+languageCode = "de-de"
+title  = "Glossar Contao 4"
+theme = "book"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    BookMenuBundle = "/menu"

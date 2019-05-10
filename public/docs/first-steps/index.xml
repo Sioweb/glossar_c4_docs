@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erste Schritte on Glossar Contao 4</title>
+    <link>https://sioweb.github.io/glossar_c4/docs/first-steps/</link>
+    <description>Recent content in Erste Schritte on Glossar Contao 4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	<atom:link href="https://sioweb.github.io/glossar_c4/docs/first-steps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glossar</title>
+      <link>https://sioweb.github.io/glossar_c4/docs/first-steps/glossar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sioweb.github.io/glossar_c4/docs/first-steps/glossar/</guid>
+      <description>Glossar erstellen Im ersten Block der Backend-Navigation, können Glossare angelegt werden. Ein Glossar kann viele Begriffe enthalten und ein Begriff wiederum kann viele Inhaltselemente besitzen.
+Für die meisten Seiten, reich ein Glossar. Ich empfehle allerdings, bei mehr als 10 Begriffen für jede Sprache einen Glossar anzulegen. Auch große Seiten mit vielen Fachbegriffen wie z.B. ein eigenes Wiki oder das Intranet eines Konzerns, würde ich raten vorher zu überlegen, für Teilbereiche einen Glossar anzulegen.</description>
+    </item>
+    
+    <item>
+      <title>Glossar Index</title>
+      <link>https://sioweb.github.io/glossar_c4/docs/first-steps/glossar-index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sioweb.github.io/glossar_c4/docs/first-steps/glossar-index/</guid>
+      <description>Glossar-Index aufbauen Der Index ist ein Speicher auf jeder Seite von PHP. Findet der Glossar einen Begriff auf einer Seite, wird dieser in dem Datenbankeintrag der Seite eingetragen. Dadurch ist es möglich, auch wirklich nur eine begrenzte Anzahl an Begriffen auf der Seite zu suchen, wenn ein Besucher die Seite öffnet.
+Der Index kann wie der Suchindex im Backend und Systemwartung aufgebaut werden. Ebenfalls wie der Suchindex, kann der Glossar einen Frontendbenutzer temporär anmelden, um geschützte Seiten zu durchsuchen.</description>
+    </item>
+    
+    <item>
+      <title>Term</title>
+      <link>https://sioweb.github.io/glossar_c4/docs/first-steps/term/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sioweb.github.io/glossar_c4/docs/first-steps/term/</guid>
+      <description>Begriffe und Abkürzungen Wir unterscheiden nun zwischen Begriffen und Abkürzungen. Mögliche Abkürzungen wären www für World Wide Web, oder JS für Javascript. Abkürzungen werden nicht verlinkt, sondern zeigen dem Besucher eine kurze Beschreibung an, sobald dieser mit der Maus über die Abkürzung fährt.
+Begriffe wiederum, bietet dem Besucher einen ausführlicheren Inhalt, wenn diese mit der Maus über einen der Begriffe fährt. Je nach Einstellung, lädt Glossar dann eine Vorschau mit einem Teaser-Text und optional einem Bild.</description>
+    </item>
+    
+  </channel>
+</rss>
